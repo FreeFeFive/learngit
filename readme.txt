@@ -3,8 +3,5 @@ Git is a free software distributed under the GPL.
 Git has a mutable stage called stage.
 Git track changes of files.
 Creating a new branch is quick and simple.
-go fuck yourself
-haha you motherfucker!!!!
-let's test it.
 
-little bitch huh?
+I'm modifying my readme file.
